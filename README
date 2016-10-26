@@ -1,0 +1,5 @@
+Contains  a project made for Operating Systems course.
+Task Monitor which accesses the procfs from /proc and reads the stat 
+file of every process and displays the data.
+
+ 
