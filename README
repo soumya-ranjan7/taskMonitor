@@ -1,5 +1,10 @@
 Contains  a project made for Operating Systems course.
-Task Monitor which accesses the procfs from /proc and reads the stat 
-file of every process and displays the data.
+Task Monitor which accesses the procfs from /proc and reads the stat file of every process and displays the data.
+Run install.sh to setup the program.
+Once it's done, press esc + z to run the task monitor.
+While the program is running,
+	->Press 'k' to kill a process
+	->Press 'q' to exit
+To uninstall, run uninstall.sh
 
  
